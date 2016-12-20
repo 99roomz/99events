@@ -4,6 +4,7 @@
     "description": "99events PHP SDK",
     "keywords": ["99roomz", "sdk", "cloud", "image management", "cdn"],
     "type": "library",
+     "homepage": "https://www.github.com/99roomz/99events",
     "authors": [
         {
             "name": "99roomz",
